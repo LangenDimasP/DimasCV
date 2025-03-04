@@ -55,7 +55,7 @@ body {
     right: 0;/* Extend right to cover sidebar padding */
     height: 60px;
     background-color: #b02a2a;
-    clip-path: polygon(0 0, 100% 100%, 100% 100%, 0% 100%);
+    clip-path: polygon(0 0, 100% 100%, 120% 120%, 0% 100%);
     z-index: 2;
 }
 
