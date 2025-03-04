@@ -27,7 +27,7 @@ body {
 /* Sidebar Styles */
 .sidebar {
     width: 40%;
-    background-color: #b02a2a;
+    background-color: #2b355d;
     color: white;
     padding:0;
 }
@@ -54,7 +54,7 @@ body {
     left: 0;
     right: 0;/* Extend right to cover sidebar padding */
     height: 60px;
-    background-color: #b02a2a;
+    background-color: #2b355d;
     clip-path: polygon(0 0, 100% 100%, 120% 120%, 0% 100%);
     z-index: 2;
 }
@@ -188,7 +188,7 @@ body {
     margin-bottom: 5px;
 }
 .header h1:hover {
-    color: #b02a2a;
+    color: #2b355d;
 }
 
 .header h3 {
@@ -286,7 +286,7 @@ body {
 }
 
 .social-links a:hover {
-    color: #b02a2a;
+    color: #2b355d;
 }
 
 .social-links a i {
@@ -303,7 +303,7 @@ body {
     display: flex;
     align-items: center;
     gap: 10px;
-    background-color: #b02a2a;
+    background-color: #2b355d;
     color: white;
     padding: 12px 25px;
     border-radius: 5px;
@@ -313,7 +313,7 @@ body {
 }
 
 .download-btn:hover {
-    background-color: #8c2121;
+    background-color: #212846;
     transform: translateY(-2px);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
